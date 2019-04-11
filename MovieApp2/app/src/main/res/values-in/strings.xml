@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PencarianFilm2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Main Sekarang</string>
+    <string name="up_coming">Yang akan Datang</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="introduction">Silahkan pilih salah satu item di atas</string>
+    <string name="this_movie_now_playing">Ini adalah film yang main sekarang</string>
+    <string name="this_movie_up_coming">Ini adalah film yang akan datang</string>
+    <string name="details">Selengkapnya</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="poster_image">Gambar Poster</string>
+    <string name="search_movie2">Pencarian Movie</string>
+    <string name="Intro_for_search">Kata kunci untuk pencarian film</string>
+    <string name="search">CARI</string>
+    <string name="change_language_settings">Pengaturan Ubah Bahasa</string>
+    <string name="change_language">Ubah Bahasa</string>
+</resources>

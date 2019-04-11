@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieApp2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="up_coming">UP COMING</string>
+    <string name="search_movie">SEARCH MOVIE</string>
+    <string name="introduction">Please select one of the item above</string>
+    <string name="this_movie_now_playing">This is Movie Now Playing</string>
+    <string name="this_movie_up_coming">This is Movie Up Coming</string>
+    <string name="details">DETAILS</string>
+    <string name="judul">Title</string>
+    <string name="deskripsi">Description</string>
+    <string name="tanggal">Date</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="search_movie2">Search Movie</string>
+    <string name="Intro_for_search">Keyword for search movie</string>
+    <string name="search">SEARCH</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
